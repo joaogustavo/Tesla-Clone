@@ -1,6 +1,4 @@
-## Tests
-
-## NEW CONCEPTS APPLIED
+## CONCEPTS APPLIED
 
 - react-redux toolkit
 - styled components
